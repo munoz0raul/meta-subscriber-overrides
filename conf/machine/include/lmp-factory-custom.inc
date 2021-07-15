@@ -6,5 +6,3 @@ SOTA_CLIENT_FEATURES_append_imx8mm-var-dart = " ubootenv"
 UBOOT_MACHINE_imx8mm-var-dart = "imx8mm_var_dart_defconfig"
 BOOTSCR_LOAD_ADDR_imx8mm-var-dart = "0x44800000"
 
-# legacy fit image format
-FIT_NODE_SEPARATOR_imx8mm-var-dart = "@"
